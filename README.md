@@ -26,4 +26,4 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 # Table Naming Conventions.
 
 **Bronze Rules** 
-
+ 
