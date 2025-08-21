@@ -115,7 +115,7 @@ You can access the information of these views and perform EDA analysis with this
 
  # **Final Data Flow Diagram** 
 
-images/data_flow_diagram.png
+![Data_Flow_Diagram](images/data_flow_diagram.png)
 
 Final results:
 
